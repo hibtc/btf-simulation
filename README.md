@@ -25,4 +25,12 @@ How to use it is documented in the file
 
 The template 'submitBTFsim.sh' is an exemplary script
 to submit the job via slurm, please make the proper
-modifications to make it run in your cluster 
+modifications to make it run in your cluster
+
+# Before launching the simulation
+
+Please modify the script
+
+- Templates/run_btf.py
+
+The path to your working directory has to be inserted in order to find the /src directory
