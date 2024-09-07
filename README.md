@@ -2,6 +2,8 @@
 
 Here the skripts to run the BTF simulations are available
 
+- https://arxiv.org/abs/2404.02576
+
 # Requirements
 
 Please install following packages and their dependencies
