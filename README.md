@@ -20,6 +20,7 @@ All of them should be available via pip
 - run_param_scan_GPU.py
 
 Edit this file to scan over different parameters
+
 How to use it is documented in the file
 
 The template 'submitBTFsim.sh' is an exemplary script
